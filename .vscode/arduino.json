@@ -4,5 +4,5 @@
     "programmer": "esptool",
     "port": "/dev/tty.usbserial-556E0274761",
     "output": "../../ArduinoOutput",
-    "sketch": "hello/hello.ino"
+    "sketch": "ky-001/ky-001.ino"
 }

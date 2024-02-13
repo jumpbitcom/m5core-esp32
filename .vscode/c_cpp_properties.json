@@ -1378,6 +1378,8 @@
                 "/Users/mwn/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/tools/sdk/esp32/qio_qspi/include",
                 "/Users/mwn/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/cores/esp32",
                 "/Users/mwn/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/variants/m5stack_core_esp32",
+                "/Users/mwn/Data/Arduino/libraries/OneWire",
+                "/Users/mwn/Data/Arduino/libraries/DallasTemperature",
                 "/Users/mwn/Data/Arduino/libraries/M5Stack/src",
                 "/Users/mwn/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/SPI/src",
                 "/Users/mwn/Library/Arduino15/packages/esp32/hardware/esp32/2.0.11/libraries/Wire/src",

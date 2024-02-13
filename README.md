@@ -10,3 +10,7 @@ Install libraries M5Stack
 
 Set in Board Manager upload speed to 115000
 
+
+Pinout
+https://github.com/m5stack/M5Stack/blob/master/docs/M-BUS.jpg
+
