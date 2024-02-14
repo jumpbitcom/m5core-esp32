@@ -13,4 +13,8 @@ Set in Board Manager upload speed to 115000
 
 Pinout
 https://github.com/m5stack/M5Stack/blob/master/docs/M-BUS.jpg
+https://forum.m5stack.com/topic/188/bottom-io-expander-pinout
+https://forum.m5stack.com/assets/uploads/files/1524592015889-bottom-pinout.jpg
+
+ky-001 https://sensorkit.joy-it.net/en/sensors/ky-001
 

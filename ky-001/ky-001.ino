@@ -4,7 +4,7 @@
 #include <M5Stack.h>
 
 // Here the input pin is declared to which the sensor module is connected
-#define KY001_Signal_PIN 13
+#define KY001_Signal_PIN 19 // GPIO2 IO6
 
 // Libraries are configured
 OneWire oneWire(KY001_Signal_PIN);          
