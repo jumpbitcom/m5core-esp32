@@ -1,4 +1,10 @@
 #include <M5Stack.h>
+#include <WiFi.h>
+#include "AzureIotHub.h"
+#include "Esp32MQTTClient.h"
+
+#include "DHT12.h"
+#include <Wire.h> 
 
 void setup()
 {

@@ -18,3 +18,8 @@ https://forum.m5stack.com/assets/uploads/files/1524592015889-bottom-pinout.jpg
 
 ky-001 https://sensorkit.joy-it.net/en/sensors/ky-001
 
+
+## Azure IoT Hub
+https://github.com/Azure/azure-sdk-for-c-arduino/blob/main/examples/Azure_IoT_Adu_ESP32/readme.md
+
+
