@@ -4,13 +4,17 @@
 #include <M5Stack.h>
 #include <WiFi.h>
 #include <HTTPClient.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 // Here the input pin is declared to which the sensor module is connected
 #define KY001_Signal_PIN 19 // GPIO2 IO6
 
+// read .env file
+
 // WiFi credentials
-const char *ssid = "iPhone";
-const char *password = "2pac-1234";
+const char *ssid = "SCHOFSEGGEL";
+const char *password = "xy";
 
 // Libraries are configured
 OneWire oneWire(KY001_Signal_PIN);
@@ -20,7 +24,6 @@ void setup()
 {
   M5.begin(); // Init M5Core.
   WiFi.begin(ssid, password);
-
   while (WiFi.status() != WL_CONNECTED)
   {
     delay(1000);
